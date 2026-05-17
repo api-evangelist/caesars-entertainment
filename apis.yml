@@ -11,7 +11,7 @@ tags:
   - Loyalty
   - Company
 type: Index
-x-type: company
+kind: company
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 access: 3rd-Party
 created: '2026-03-21'
@@ -63,7 +63,7 @@ common:
     url: https://www.caesars.com/careers
   - type: Loyalty Program
     url: https://www.caesars.com/myrewards
-  - type: Terms of Service
+  - type: TermsOfService
     url: https://www.caesars.com/myrewards/rules
 maintainers:
   - FN: Kin Lane

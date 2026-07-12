@@ -52,6 +52,8 @@ apis:
       developer API is currently documented; corporate, consumer, investor,
       newsroom, careers, and loyalty properties are published online.
 common:
+  - type: DomainSecurity
+    url: security/caesars-entertainment-domain-security.yml
   - type: GitHubOrganization
     url: https://github.com/caesarsdigital
   - type: LinkedIn

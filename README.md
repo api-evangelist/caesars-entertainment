@@ -27,10 +27,6 @@ Caesars Entertainment is the largest U.S. casino-entertainment company, operatin
 
 ## APIs
 
-### Caesars Entertainment
-Caesars Entertainment operates casinos, resorts, and entertainment venues, along with the Caesars Rewards loyalty program and an online gaming/sports betting platform (Caesars Sportsbook). No public developer API is currently documented.
-
-**Human URL:** [https://www.caesars.com/corporate](https://www.caesars.com/corporate)
 
 ## Common Properties
 

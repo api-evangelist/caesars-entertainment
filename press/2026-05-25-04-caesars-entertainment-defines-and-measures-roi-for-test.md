@@ -1,7 +1,9 @@
 ---
 title: Caesars Entertainment Defines & Measures ROI for Test ...
 url: https://www.parasoft.com/resources/case-studies/caesars-entertainment-defines-and-measures-roi-for-test-automation/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Caesars Entertainment" press release artificial intelligence'
 position: 4
 source: serpapi-google

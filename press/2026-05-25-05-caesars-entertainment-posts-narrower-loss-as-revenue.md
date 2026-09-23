@@ -1,7 +1,9 @@
 ---
 title: Caesars Entertainment Posts Narrower Loss as Revenue ...
 url: https://www.wsj.com/business/earnings/caesars-entertainment-posts-narrower-loss-as-revenue-rises-a2030564
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Caesars Entertainment" press release artificial intelligence'
 position: 5
 source: serpapi-google

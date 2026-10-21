@@ -1,0 +1,57 @@
+edges:
+- partner_name: New Jersey Division of Gaming Enforcement
+  partner: null
+  partner_match: register
+  type: contract
+  channel: regulator-register
+  relationship: standard-participant
+  direction: partner-built
+  evidence: https://www.njoag.gov/about/divisions-and-offices/division-of-gaming-enforcement-home/internet-gaming-sites/
+  category: Online gambling licence / approval
+  contract_reference:
+    register: 'New Jersey Division of Gaming Enforcement: approved online operators (https://www.njoag.gov/about/divisions-and-offices/division-of-gaming-enforcement-home/internet-gaming-sites/)'
+    standard: New Jersey internet gaming / online sports wagering (DGE)
+    spec_file: null
+    role: licensed-online-operator
+    jurisdiction: US-NJ
+    registered_name: caesars
+    matched_domain: caesars.com
+    matched_by: domain
+    certified_products:
+    - product: New Jersey online gambling approval
+      jurisdiction: US-NJ
+      verticals:
+      - sports
+      lapsed: false
+    approved_sites:
+    - sportsbook.caesars.com
+    signal_note: certified_products = ONE per jurisdiction (the approval), never per site, brand or vertical; verticals
+      and sites are context, never counted; the list is the regulator's CURRENT approved list
+    detected_by: sweep-sports-betting.py
+    detected: '2026-10-20'
+    licensed_through:
+    - Borgata Hotel Casino & Spa
+  detected_by: sweep-sports-betting.py
+  first_seen: '2026-10-20'
+generated: '2026-10-20'
+method: searched
+source:
+- https://igamingontario.ca/en/player/regulated-igaming-market
+- https://www.njoag.gov/about/divisions-and-offices/division-of-gaming-enforcement-home/internet-gaming-sites/
+- https://www.njoag.gov/about/divisions-and-offices/division-of-gaming-enforcement-home/sports-wagering/
+- https://gamingcontrolboard.pa.gov/online-sports-wagering-licensed-operators
+- https://gamingcontrolboard.pa.gov/interactive-gaming-operators
+- https://gamingcontrolboard.pa.gov/online-poker-operators
+- https://www.michigan.gov/mgcb/internet-gaming-and-fantasy-contests/authorized-online-gaming-and-sports-betting-platform-providers-in-michigan
+- https://sbg.colorado.gov/licensed-sports-books-and-operators
+- https://igb.illinois.gov/sports-wagering/sports-authorized-operating-sportsbooks.html
+checked:
+- https://gamingcontrolboard.pa.gov/interactive-gaming-operators
+- https://gamingcontrolboard.pa.gov/online-poker-operators
+- https://gamingcontrolboard.pa.gov/online-sports-wagering-licensed-operators
+- https://igamingontario.ca/en/player/regulated-igaming-market
+- https://igb.illinois.gov/sports-wagering/sports-authorized-operating-sportsbooks.html
+- https://sbg.colorado.gov/licensed-sports-books-and-operators
+- https://www.michigan.gov/mgcb/internet-gaming-and-fantasy-contests/authorized-online-gaming-and-sports-betting-platform-providers-in-michigan
+- https://www.njoag.gov/about/divisions-and-offices/division-of-gaming-enforcement-home/internet-gaming-sites/
+- https://www.njoag.gov/about/divisions-and-offices/division-of-gaming-enforcement-home/sports-wagering/
